@@ -1,98 +1,152 @@
 [
   {
     "id":1,
-    "name":"Bowser",
-    "img":"./images/bowser.jpg",
+    "name":"Bbomb",
+    "img":"./images/babomb.png",
     "clicked":false
   },
   {
     "id":2,
-    "name":"Coin",
-    "img":"./images/coin.jpg",
+    "name":"Bfight",
+    "img":"./images/bfight.png",
     "clicked":false
   },
   {
     "id":3,
-    "name":"Coin Block",
-    "img":"./images/coinblock.jpg",
+    "name":"BillB",
+    "img":"./images/billblaster.png",
     "clicked":false
   },
   {
     "id":4,
-    "name":"Dedee",
-    "img":"./images/dedee.jpg",
+    "name":"Bomber",
+    "img":"./images/bomberman.png",
     "clicked":false
   },
   {
     "id":5,
-    "name":"Donkey Kong",
-    "img":"./images/dK.jpg",
+    "name":"Bowser",
+    "img":"./images/bowser.png",
     "clicked":false
   },
   {
     "id":6,
-    "name":"Dr. Mario",
-    "img":"./images/drMario.jpg",
+    "name": "Mac",
+    "img":"./images/mac.png",
     "clicked":false
   },
   {
     "id":7,
-    "name":"Ghost",
-    "img":"./images/ghost.jpg",
+    "name":"Charizaard",
+    "img":"./images/char.png",
     "clicked":false
   },
   {
     "id":8,
-    "name":"Kirby",
-    "img":"./images/kirby.jpg",
+    "name":"Diddy",
+    "img":"./images/diddy.png",
     "clicked":false
   },
   {
     "id":9,
-    "name":"Mario",
-    "img":"./images/mario.jpg",
+    "name": "Dr. Mario",
+    "img":"./images/dmario.png",
     "clicked":false
   },
   {
     "id":10,
-    "name":"MegaMan",
-    "img":"./images/megaman.jpg",
+    "name":"Fox",
+    "img":"./images/fox.png",
     "clicked":false
   },
   {
     "id":11,
-    "name":"Princess Peach",
-    "img":"./images/peach.jpg",
+    "name":"HammerBro",
+    "img":"./images/hbro.png",
     "clicked":false
   },
   {
     "id":12,
-    "name":"Sammus",
-    "img":"./images/sammy.jpg",
+    "name":"DeDee",
+    "img":"./images/kd.png",
     "clicked":false
   },
   {
     "id":13,
-    "name":"ShyGuy",
-    "img":"./images/shyguy.jpg",
+    "name":"DeDee",
+    "img":"./images/kd2.png",
     "clicked":false
   },
   {
     "id":14,
-    "name":"Toad",
-    "img":"./images/toad.jpg",
+    "name":"DeDee",
+    "img":"./images/kd3.png",
     "clicked":false
   },
   {
     "id":15,
-    "name":"Wario",
-    "img":"./images/wario.jpg",
+    "name":"LakerMR",
+    "img":"./images/lakermr.png",
     "clicked":false
   },
   {
     "id":16,
+    "name":"Lucario",
+    "img":"./images/lucario.png",
+    "clicked":false
+  },
+  {
+    "id":17,
+    "name":"?box",
+    "img":"./images/qbox.png",
+    "clicked":false
+  },
+  {
+    "id":18,
+    "name":"MegaMan",
+    "img":"./images/Mman-bh.png",
+    "clicked":false
+  },
+  {
+    "id":19,
+    "name":"Sammus",
+    "img":"./images/sam.png",
+    "clicked":false
+  },
+  {
+    "id":20,
+    "name":"ShyGuy",
+    "img":"./images/sguy.png",
+    "clicked":false
+  },
+  {
+    "id":21,
+    "name":"Villagos",
+    "img":"./images/Villageos.png",
+    "clicked":false
+  },
+  {
+    "id":22,
+    "name":"Warrio",
+    "img":"./images/wario.png",
+    "clicked":false
+  },
+  {
+    "id":23,
+    "name":"Falco",
+    "img":"./images/falco.png",
+    "clicked":false
+  },
+  {
+    "id":24,
+    "name":"Jiggleypuff",
+    "img":"./images/jpuff.png",
+    "clicked":false
+  },
+  {
+    "id":25,
     "name":"Yoshi",
-    "img":"./images/yoshi.jpg",
+    "img":"./images/yoshi.png",
     "clicked":false
   }
 ]

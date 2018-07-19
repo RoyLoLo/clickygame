@@ -2,9 +2,9 @@ import React from "react";
 
 
 const imgStyle ={
-  height : "250px",
-  width :  "250px",
-  margin : "13px"
+  height : "200px",
+  width :  "200px",
+  margin : "10px"
 }
 const Body = props => 
   
